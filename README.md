@@ -4,6 +4,15 @@ My life motto is if you are underestimated then respond with your your skills, a
 I was a beginner who was still learning in the world of informatics. I am interested in the field of mobile application development with flutter
 
 
+### Education
+Computer Science Student - Strata 1
+Mulia University
+
+### Experience
+- Mobile Application Developer (Kampus Merdeka - Alterra Academy)
+  Participated in the Kampus Merdeka Program by focusing on Mobile developers using Flutter, which teaches how to create mobile applications from basic concepts concepts to practical application in developing application.
+  independent campus program teaches how to collaborate with teams from various divisions such as UI/UX, backend, web development, and data engineering, to create integrated and quality applications
+
 ### Skilss
 - Html
 - Css
