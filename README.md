@@ -1,7 +1,5 @@
 ### About Me
-I am a cheerful, mature person, thoughtful in solving problems, and responsible in carrying out assigned tasks given.
-My life motto is if you are underestimated then respond with your your skills, abilities, creativity andachieve success in the future! The beginning,
-I was a beginner who was still learning in the world of informatics. I am interested in the field of mobile application development with flutter
+I am a Bachelor of Computer Science graduate from Universitas Mulia with a strong interest in mobile application development using Flutter, as well as database management and data analysis. I am a responsible and fast learner with strong problem-solving skills, accustomed to working in a structured and well-planned manner, and committed to continuously improving my technical abilities to deliver effective and sustainable technology solutions.
 
 
 ### Education
@@ -18,6 +16,7 @@ Mulia University  Bachelor of Computer Science
 - Dart
 - Flutter
 - Firebase
+- MYSql
 
 ### currently learning
 - Data Analyst
