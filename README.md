@@ -5,7 +5,7 @@ I was a beginner who was still learning in the world of informatics. I am intere
 
 
 ### Education
-Computer Science Student - Strata 1
+Freshgraduate
 Mulia University
 
 ### Experience
