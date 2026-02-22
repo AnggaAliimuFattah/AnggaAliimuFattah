@@ -5,8 +5,7 @@ I was a beginner who was still learning in the world of informatics. I am intere
 
 
 ### Education
-Freshgraduate
-Mulia University
+Mulia University  Bachelor of Computer Science
 
 ### Experience
 - Mobile Application Developer (Kampus Merdeka - Alterra Academy)
