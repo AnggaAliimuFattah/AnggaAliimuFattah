@@ -17,8 +17,9 @@ Mulia University  Bachelor of Computer Science
 - Css
 - Dart
 - Flutter
+- Firebase
 
 ### currently learning
-- Firebase
+- Data Analyst
   
   
